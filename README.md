@@ -10,6 +10,10 @@ Canonical storage for original PFxamd brand files used in PFxamd projects.
 
 The official brand name and current asset paths are recorded in [`brand.json`](brand.json).
 
+## Source-code signature
+
+The approved [PFxamd Signature](signature/README.md) contains the source-code template and application instructions for agents. Read it before adding a signature to a project.
+
 ## Use in a project
 
 Retrieve the required file from this repository and copy it into the project's own assets folder. After copying, the project does not need to access this repository. See [`AGENTS.md`](AGENTS.md) for agent instructions.
