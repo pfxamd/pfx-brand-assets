@@ -3,5 +3,10 @@
   "repository": "pfxamd/pfx-brand-assets",
   "assets": {
     "logo": "logos/logo.svg"
+  },
+  "signature": {
+    "guide": "signature/README.md",
+    "author": "Ahmed",
+    "website": "https://www.pfxamd.com"
   }
 }
